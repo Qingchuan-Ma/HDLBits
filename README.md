@@ -1,2 +1,2 @@
 # HDLBits
-HDLBits solutions and A spyder
+HDLBits solutions and A web crawler
